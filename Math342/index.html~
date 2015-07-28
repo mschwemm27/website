@@ -1,0 +1,87 @@
+<html>
+
+<head>
+<title>Numerical Methods</title>
+
+<style type='text/css'>
+h2 {
+font-size: 28px;
+font-weight: bold;
+padding-left: 0px;
+
+margin-top: 20px;
+margin-right: 10px;
+margin-bottom: 4px;
+margin-left: 50px;
+padding-top: 0px;
+padding-right: 10px;
+padding-bottom: 0px;
+line-height: 28px;
+}
+ul {
+margin-right: 300px;
+margin-left: 50px
+}
+
+p {
+margin-right: 300px;
+margin-left: 50px
+}
+
+h3 {
+font-size: 20px;
+font-weight: bold;
+padding-left: 0px;
+
+margin-top: 20px;
+margin-right: 10px;
+margin-bottom: 4px;
+margin-left: 50px;
+padding-top: 0px;
+padding-right: 10px;
+padding-bottom: 0px;
+line-height: 28px;
+}
+
+</style>
+</head>
+
+<BODY BGCOLOR="#E6E6FA" TEXT="#000000">
+<BODY BGCOLOR="#ffffff" TEXT="#000000">
+
+<br>
+<h2>Math 342 - Numberical Methods </h2>
+<p>
+Introduction to numerical methods with emphasis on algorithms, applications and computer implementation issues. Topics covered: Solution of nonlinear equations, interpolation, numerical differentiation and integration, least-squares approximation, direct and iterative methods for solving linear systems, numerical solutions of differential equations, and brief introduction to numerical solution of stochastic differential equations. Lectures are supplemented with numerical examples using MATLAB
+</p>
+
+<br>
+<h3> Topics </h2>
+<ul>
+<li> Introduction: Neuronal properties (∼ 1 week)
+<li> Mathematical Tools: ODEs and Numerical Methods (1-2 weeks)
+<li> Models of single cells and small networks (≈ 5 weeks)
+<li> Information theory and probabilistic approaches (≈ 2.5 weeks)
+<li> Decisions and learning (≈ 2 weeks)
+<li> Independent project presentations (during exam period)
+<li> <a href="../MAT-351desc10.pdf"> Detailed Syllabus </a>
+</ul>
+<br>
+
+<br>
+<h3>Sample Student Research Projects</h3>
+<ul>
+<li><a href="example_1.pdf"> Example 1 </a>
+<li><a href="example_2.pdf"> Example 2 </a>
+</ul>
+<br>
+
+
+
+
+
+
+</body>
+
+
+</html>

@@ -1,0 +1,62 @@
+<html>
+
+<head>
+<title>Project Summary</title>
+<style type='text/css'>
+h2 {
+font-size: 28px;
+font-weight: bold;
+padding-left: 0px;
+
+margin-top: 20px;
+margin-right: 10px;
+margin-bottom: 4px;
+margin-left: 50px;
+padding-top: 0px;
+padding-right: 10px;
+padding-bottom: 0px;
+line-height: 28px;
+}
+ul {
+margin-right: 300px;
+margin-left: 50px
+}
+
+
+p {
+margin-right: 300px;
+margin-left: 50px
+}
+
+h3 {
+font-size: 20px;
+font-weight: bold;
+padding-left: 0px;
+
+margin-top: 20px;
+margin-right: 10px;
+margin-bottom: 4px;
+margin-left: 50px;
+padding-top: 0px;
+padding-right: 10px;
+padding-bottom: 0px;
+line-height: 28px;
+}
+
+</style>
+</head>
+
+<BODY BGCOLOR="#E6E6FA" TEXT="#000000">
+<BODY BGCOLOR="#ffffff" TEXT="#000000">
+
+<br>
+<h2> Small Dendrites in Networks of Electrically Coupled Fast-Spiking Interneurons</h2>
+<p>
+This project involves investigating the role of dendrtitic properties on the phase-locking dynamics of a pair of electrically coupled model neuronal oscillators.  Each model neuron consists of a somatic compartment and a passive dendritic compartment, and the position of the electrical coupling is between the two dendritic compartments.  We assume that the surface area of the somatic compartment is much larger than that of the dendritic compartment which effectively makes the current flowing from the dendritic compartment into the somatic compartment weak.  This allows us to use the theory of weakly coupled oscillators to reduce the dynamics of the system down to consideration of a single differential equation which governs the phase difference between the two oscillators.  This is in contrast to previous studies which examined the case where the electrical coupling between the two neurons was assumed to be weak.  
+</p>
+<br>
+
+</body>
+
+
+</html>

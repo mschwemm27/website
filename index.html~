@@ -1,0 +1,117 @@
+<html>
+
+<head>
+<title>Michael Schwemmer's Homepage</title>
+</head>
+
+
+<BODY BGCOLOR="#E6E6FA" TEXT="#000000">
+<BODY BGCOLOR="#ffffff" TEXT="#000000">
+
+
+<TR>
+<HR>
+</TR>
+
+<TABLE CELLSPACING=4 CELLPADDING=3 BORDER=0>
+
+
+<TR>
+<TD  COLSPAN=4 ALIGN=CENTER NOWRAP>
+<img src="image_1.jpg" ALIGN="left" HEIGHT="400" BORDER="0" ></TD>
+
+</TR>
+
+<TR>
+<TD HEIGHT=4><SPACER HEIGHT=2 WIDTH=1></TD>
+</TR>
+
+<TR>
+<TD  ALIGN=LEFT BGCOLOR="#000000">
+<FONT SIZE="+2" FONT COLOR="#FFFFFE"><B>&nbsp;&nbsp;&nbsp;&nbsp;Michael A. Schwemmer  </B></FONT>
+</TD>
+</TR>
+   
+<TR>
+<TD HEIGHT=4><SPACER HEIGHT=2 WIDTH=1></TD>
+</TR>
+
+<TR>
+<TD>
+
+<br>
+
+Postdoctoral Fellow<br>
+Mathematical Biosciences Institute <a href="http://mbi.osu.edu"> (MBI) </a> <br>
+The Ohio State University <br>
+Email address: schwemmer.2"at"osu.edu <br>
+Location: 379 Jennings Hall <br>
+<a href="CV_Schwemmer.pdf">Curriculum Vitae</a> <br>
+
+<br>
+
+<h1><u>Research</u></h1>
+I am interested in the application of techniques from dynamical systems,<br> asymptotic analysis, and stochastic differential equations to various questions <br> in neuroscience ranging from exploring single neuron electrophysiology to <br> examining aspects of cognition and behavior. <a href="http://people.mbi.ohio-state.edu/schwemmer.2/Research/index.html"> Read More </a> </h2>
+
+<h2> <a href="http://people.mbi.ohio-state.edu/schwemmer.2/Publications/index.html">Complete List of Publications</a> </h2>
+
+<br>
+
+
+<h1><u> Teaching</u></h1>
+
+<h2><i>Instructor</i></h2>
+<ul>
+<li> <a href="http://people.mbi.ohio-state.edu/schwemmer.2/Math342/"> Math 342 - Numerical Methods </a> (Princeton University)
+<li> <a href="http://people.mbi.ohio-state.edu/schwemmer.2/Math351/"> Math 351 - Mathematical Neuroscience </a> (Princeton University)
+<li> <a href="Syllabus22B.pdf"> Math 22B - Differential Equations </a> (UC Davis)
+</ul>
+
+<h2><i>Undergraduate Mentoring</i></h2>
+<ul>
+<li> Abulhair Saparov, B.S.E. Computer Science (Princeton University)
+<ul>
+<li> <a href="certificate.pdf"> Effects of Spike Shape on the Firing Dynamics and Synchronization Properties of Leaky-Integrate-and-Fire Neurons with Dendritic Structure </a>
+</ul>
+<li> Joel Shor, B.S. Mathematics (Princeton University)
+<ul>
+<li> Junior Independent Work: <a href="http://people.mbi.ohio-state.edu/schwemmer.2/Summary_Schor/"> Small Dendrites in Networks of Electrically Coupled Fast-Spiking Interneurons </a>.
+</ul>
+<li> <a href=" http://people.mbi.ohio-state.edu/schwemmer.2/CLIMB/"> Collaborative Learning at the Interface of Mathematics and Biology </a>
+</ul>
+
+<h2><i>Teaching Assistant (UC Davis)</i></h2>
+<ul>
+<li> NPB/NSC 167/267 (Computational Neuroscience)
+<li> Math 124 (Mathematical Biology)
+<li> Math 17A and 17C (Calculus for the Biosciences)
+<li> Math 119A (Ordinary Differential Equations)
+</ul>
+
+
+<br>
+
+<h1><u>Links</u></h1>
+<ul>
+<li> <a href="http://www.princeton.edu/neuroscience/">Princeton Neuroscience Institute</a>
+<li> <a href="http://www.math.ucdavis.edu/">UC Davis Math Homepage</a>
+<li> <a href="http://www.cnsorg.org/index/shtml"> Organization for Computational Neuroscience</a>
+<li> <a href="http://www.siam.org"> Society for Industrial and Applied Mathematics</a>
+<li> <a href="http://www.sfn.org"> Society for Neuroscience</a>
+<li> <a href="http://www.mbl.edu/education/courses/special_topics/mcn.html">Methods in Computational Neuroscience</a>
+<br>
+Great summer Course at the Marine Biological Laboratory in Woods Hole, MA
+
+</ul>
+
+<TR>
+<TD  COLSPAN=4 ALIGN=CENTER NOWRAP>
+<img src="neuron" ALIGN="left" HEIGHT="200" BORDER="0" ></TD>
+
+</TR>
+
+
+</body>
+
+
+</html>

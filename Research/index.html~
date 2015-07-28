@@ -1,0 +1,125 @@
+<html>
+
+<head>
+<title>Research</title>
+<style type='text/css'>
+h1 {
+font-size: 30px;
+font-weight: bold;
+padding-left: 0px;
+
+margin-top: 20px;
+margin-right: 10px;
+margin-bottom: 4px;
+margin-left: 60px;
+padding-top: 0px;
+padding-right: 300px;
+padding-bottom: 0px;
+line-height: 28px;
+}
+ul {
+margin-right: 300px;
+margin-left: 60px
+}
+
+
+p {
+margin-right: 300px;
+margin-left: 50px
+}
+
+h3 {
+font-size: 50px;
+font-weight: bold;
+padding-left: 0px;
+
+margin-top: 20px;
+margin-right: 10px;
+margin-bottom: 4px;
+margin-left: 400px;
+padding-top: 0px;
+padding-right: 10px;
+padding-bottom: 0px;
+line-height: 28px;
+}
+
+</style>
+</head>
+
+<BODY BGCOLOR="#E6E6FA" TEXT="#000000">
+<BODY BGCOLOR="#ffffff" TEXT="#000000">
+
+<h3> Research</h3>
+
+<TR>
+<HR>
+</TR>
+
+<TABLE CELLSPACING=4 CELLPADDING=3 BORDER=0>
+
+
+<TR>
+<TD HEIGHT=4><SPACER HEIGHT=2 WIDTH=1></TD>
+</TR>
+
+<TR>
+<HR>
+</TR>
+
+<TABLE CELLSPACING=4 CELLPADDING=3 BORDER=0>
+
+
+<TR>
+<TD HEIGHT=4><SPACER HEIGHT=2 WIDTH=1></TD>
+</TR>
+
+<br>
+<h2>The Effect of Dendritic Properties on Neuronal Dynamics</h2>
+<p>
+Neurons are often modeled as spatially homogeneous, ignoring the substantial effects that their rich morphologies can have on the dynamics of single neurons, as well as the activity in neuronal networks. My dissertation work with<a href="http://www.math.ucdavis.edu/~tlewis/"> T. Lewis </a> examined how dendritic properties affect the dynamics of single and coupled neuronal oscillators. We modeled an isopotential soma connected to a passive dendritic cable, i.e. a ''ball-and-stick'' model. Assuming that dendrites weakly influence somatic dynamics, we used <a href="http://www.math.princeton.edu/~mschwemm/Publications/PRC_TWOC/index.html"> weak coupling theory </a>  to derive an analytical expression relating changes in spiking frequency to the somatic oscillator's phase response curve (PRC) (see below) and its dendritic properties <a href="http://pre.aps.org/abstract/PRE/v83/i3/e031906"> (link to paper)</a> . The expression reveals that if the average value of the oscillator's phase response curve is negative (positive), then the addition of the hyperpolarized dendrite will cause an increase (decrease) in firing frequency, which we confirm with numerical simulations of the full models.  Thus, we are able to elucidate the mechanisms underlying counter-intuitive increases in firing frequency that can occur due to a hyperpolarizing dendritic load.  Furthermore, we show that the average value the neuron's phase response curve is equal to the slope of its frequency-applied current (f-I) curve.  As some experimentalists may not be familiar with measuring phase response curves from neurons, this relationship leads to an alternate interpretation of our result in terms of a more experimentally familiar quantity:  if the instantaneous slope of the oscillator's f-I curve is negative (positive), then the addition of the hyperpolarized dendrite will cause an increase (decrease) in firing frequency. 
+<br>
+<br>
+We then extended our analysis to non-weak dendritic influences <a href="http://www.math.princeton.edu/~mschwemm/Publications/Abstract_LIF"> (link to abstract) </a>. Using a leaky-integrate-and-fire model soma that includes spike effects and a nonorthogonal basis expansion technique, we derived an exact solution to the ball-and-stick model. This predicted a region of bistability between periodic firing and quiescence. The former is due to a “ping-pong” effect between somatic and proximal dendritic membrane potentials previously found only for active dendritic conductances.  Bifurcation studies showed that the influence of the passive dendrite can either induce periodic firing or silence the oscillations for certain somatic spike parameters, causing the cell to behave like a neuronal switch. We then showed that the same qualitative behavior is captured by a simpler two-compartment model with a leaky-integrate-and-fire soma electrically coupled to a passive dendritic compartment.
+<br>
+<br>
+At the network level, we utilize the theory of weakly coupled oscillators to explore how passive dendritic properties affect the stability and robustness of two electrically coupled ball-and-stick neurons. This is motivated by the observation that networks of inhibitory neurons (thought to play a fundamental role in generating cortical oscillations) are highly interconnected by electrical synapses on their dendrites, and that the dendrites of these inhibitory neurons appear to display effectively passive electrical behavior.  Previous theoretical studies have shown that passive dendritic filtering can change the steady-state phase-locking behavior in networks of neuronal oscillators.  However, these studies examined the stability of the steady-state phase-locked state and the robustness of these solutions to background noise and heterogeneity was ignored. Interestingly, we find that, depending on dendritic properties, the robustness of any phase-locked solution can either decay or increase as the synapse is placed further away from the cell-bodies. Thus, passive dendritic filtering can actually enhance stable phase-locking.  Furthermore, our phase model allows us to elucidate the mechanisms by which dendritic properties can enhance or decrease robustness, leading to a better understanding of how dendrites affect the flow of electrical activity between inhibitory neurons in the neocortex.
+
+</p>
+<br>
+<br>
+<br>
+<br>
+<h2>Experimental Methods to Measure Infinitesimal Phase Response Curves</h2>
+<p>
+The infinitesimal phase response curve (iPRC) of an oscillator measures its sensitivity to infinitesimally small perturbations at every point along its period. Knowing the iPRC enables the prediction of phase-locked behavior that will occur resulting from either coupling, or external forcing. Finding the iPRC of an oscillator is the subject of many theoretical and experimental studies because it allows for a greater understanding of the phase-locking dynamics for a variety of systems. In collaboration with Prof. Lewis and the experimental laboratory of Prof. T. Netoff (U. Minnesota), I am developing and assessing experimental techniques to measure iPRCs from neurons in order to find the optimal method.  Our main method reduces the estimation of the iPRC to a linear algebra problem by taking advantage of the fact that the iPRC quantifies the linear response of a neuron to small-amplitude perturbations.  A benefit of this method is that it is conceptually simple and easily implemented experimentally.  Future work will be to obtain experimental data for the method and quantify its accuracy in comparison to existing methods.  
+</p>
+<br>
+<br>
+<br>
+<h2>Attention and Decision Making in Mammalian Cortex</h2>
+<p>
+The neural mechanisms underlying attention and decision-making have both been areas of intense inquiry in systems and cognitive neuroscience.  Although many areas contribute to attention and decision formation, recent studies have focused on the role of the lateral intraparietal (LIP) area in visual attention and oculomotor decisions. LIP is an area of the mammalian cortex located at the interface of visual inputs and oculomotor outputs. In vivo recordings from monkey LIP during oculomotor tasks suggest that LIP activity reflects the final outcome of a perceptual decision.  Alternatively, LIP behavior during attentional tasks show that its activity is also strongly linked to the salience and task relevance of visual stimuli. Taken together, these findings suggest that neurons in LIP tie visual attention with oculomotor action, from which one can accurately predict a subject's perceptual decisions. Although mathematical modeling and analysis have separately addressed attention and decision-making in parietal cortex, there has been little work on how these functions interact and are integrated in LIP. 
+<br>
+<br>
+Jacqueline Gottlieb at Columbia University has recorded from monkey LIP during a task that involves both attentional selection and perceptual decision-making, and has generated a rich set of data regarding the dynamics of LIP unit activity  <a href="http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.0060158"> (for more details see here)</a> .  Over the past year, I have been working closely with Prof. Gottlieb, <a href="http://www.princeton.edu/mae/people/faculty/holmes/"> Prof. P. Holmes </a>, and <a href="http://www.math.princeton.edu/~sffeng/"> Samuel Feng </a> to develop a mathematical model of LIP firing rate activity that can also account for subject behavior (reaction times and accuracy) during task. Our current model consists of a large number of coupled Wilson-Cowan type equations that model the firing rate activity of populations of neurons in several brain areas (besides LIP) likely to be involved in performing the task. Our preliminary simulation results reveal that the differing behavior in LIP may be explained through anatomically justified assumptions about its connections to surrounding brain areas.  Furthermore, the model allows us to probe the link between the firing rate of neurons in LIP and the behavioral response of the subject, thus providing insight into LIP's role in attentional and decision-making processes.
+</p>
+<br>
+<br>
+<br>
+<h2>Computational Constraints on Cognitive Control</h2>
+<p>
+Suppose you are presented the word red in ``green'' color multiple times and asked to read the word out loud.  Eventually that task will become automatic, and your responses will become fairly quick.  However, if you are then asked to name the color of the word, most likely you will be able to respond correctly but your response will be slower. Cognitive control is the process that allows you to name the color rather than continuing with the more automatic response of reading the word. More generally, psychologists view cognitive control as a mechanism whose purpose is to allow information processing and behavior to adapt to evolving goals. 
+<br>
+<br>
+The human capacity for cognitive control is known to be extremely limited: humans can reliably perform only few different tasks at once. This dramatic constraint plays a central role in most theories of higher cognitive function, and yet it remains unexplained.  It is also known that the prefrontal cortex, a part of the brain that occupies 1/3 of the cortical mantle and contains billions of neurons, plays a key role in supporting cognitive control in the brain.  Therefore metabolic or structural explanations of the constraints in cognitive control seem implausible. As such, I have been working with <a href="http://www.pni.princeton.edu/ncc/JDC/JDC/Home_Page.html"> Prof. J Cohen </a> (Psychology, Princeton University), S. Feng, and <a href="http://www.princeton.edu/~sjgershm/"> Samuel Gershman </a> to develop an alternative, computational account: that constraints on the capacity for cognitive control reflect the high degree of overlap and convergence among processing pathways in the brain, which are subject to interference from crosstalk when too many are active at once.  A key function of control is to limit such crosstalk, and therefore control should allow only a limited number of processing pathways to co-activate.  We explored this hypothesis quantitatively by constructing networks that comprise sets of overlapping parallel processing pathways.  We then asked what was the optimal allocation of control across pathways as network size, degree of crosstalk, and output dimensionality are varied. We find that even modest increases in the degree of crosstalk dramatically limited the amount of control that was optimal to allocate across pathways.  These findings suggest that limits in the capacity for cognitive control may arise for computational, in addition to, or in place of, metabolic or structural reasons. Our findings have also prompted the design of a new experiment to test model predictions and data is currently being collected.  
+</p>
+
+
+
+
+
+
+</body>
+
+
+</html>

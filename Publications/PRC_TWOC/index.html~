@@ -1,0 +1,27 @@
+<html>
+
+<head>
+<title>Abstract</title>
+</head>
+
+<BODY BGCOLOR="#E6E6FA" TEXT="#000000">
+<BODY BGCOLOR="#ffffff" TEXT="#000000">
+
+<br>
+<h2>The Theory of Weakly Coupled Oscillators</h2>
+<ul>
+<li> with Timothy J. Lewis 
+</ul>
+<br>
+
+This chapter focuses on the application of phase response curves (PRCs) in predicting the phase-locking behavior in networks of periodically oscillating neurons using the theory of weakly coupled oscillators. The theory of weakly coupled oscillators can be used to predict phase-locking in neuronal networks with any form of coupling, but as the name suggests, the coupling between cells must be sufficiently weak for these predictions to be quantitatively accurate. This implies that the coupling can only have small effects on neuronal dynamics over any given cycle. However, these small effects can accumulate over many cycles and lead to phase-locking in the neuronal network. The theory of weak coupling allows one to reduce the dynamics of each neuron, which could be of very high dimension, to a single differential equation describing the phase of the neuron.
+<br>
+<br>
+
+The main goal of this chapter is to explain how a weakly coupled neuronal network is reduced to its phase model description. Three different ways to ‘derive’ the phase equations are presented, each providing different insight into the underlying dynamics of phase response properties and phase-locking dynamics. The technique is illustrated for a weakly coupled pair of identical neurons. We then show how the phase model for a pair of cells can be extended to include weak heterogeneity and small amplitude noise. Lastly, we outline two mathematical techniques for analyzing large networks of weakly coupled neurons.
+
+
+</body>
+
+
+</html>

@@ -1,0 +1,44 @@
+<html>
+
+<head>
+<title>Abstract</title>
+</head>
+
+<BODY BGCOLOR="#E6E6FA" TEXT="#000000">
+<BODY BGCOLOR="#ffffff" TEXT="#000000">
+
+<br>
+<h2>Constraints on the use of lifespan shortening Wolbachia to
+control dengue fever </h2>
+<ul>
+<li> with Schraiber, J.G., Silverstein, R., Kaczmarczyk, A.N., Rutaganira, R.U., Aggarwal, T., Hom, C.L., Grossberg, R.K. & Schreiber, S.J.
+<li> This is a research manuscript that grew from my work with the <a href=" http://www.math.princeton.edu/~mschwemm/CLIMB/"> CLIMB Program</a> at UC Davis.  
+</ul>
+<br>
+
+
+Dengue fever, a viral disease spread by the mosquito Aedes aegypti, affects 50
+to 100 million people a year in many tropical countries. Because the virus must
+incubate within mosquito hosts for two weeks before being able to transmit the
+infection, shortening the lifespan of mosquitoes may curtail dengue transmission.
+We developed a continuous time reaction-diffusion model of the spatial spread
+of Wolbachia through a population of Ae. aegypti. This model incorporates the
+lifespan-shortening effects of Wolbachia on infected Ae. aegypti and the fitness
+advantage to infected females due to cytoplasmic incompatibility (CI). We found
+that local establishment of the Wolbachia infection can occur if the fitness ad-
+vantage due to CI exceeds the fitness reduction due to lifespan shortening effects,
+in accordance with earlier results concerning fecundity reduction. However, spa-
+tial spread is possible only if the fitness advantage due to CI is twice as great
+as the fitness reduction due to lifespan shortening effects. Using data from the
+literature, we estimated all demographic parameters for infected and uninfected
+mosquitoes and computed the velocities of spread of infection. Our most opti-
+mistic estimates suggest that the spatial spread of lifespan-shortening Wolbachia
+may be too slow to effectively control dengue fever. However, as these estimates
+of demographic parameters may not accurately reflect natural conditions, further
+research is necessary to corroborate these predictions. 
+
+
+</body>
+
+
+</html>

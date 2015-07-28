@@ -1,0 +1,162 @@
+body{
+	text-align: left;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: .9em;
+	margin-left: 250px;
+	margin-top: 100px;
+	margin-right: 280px;
+	margin-bottom: 60px;
+	padding: 0px;
+}
+
+h1, h2, h3, h4{font-family: Helvetica, Arial, sans-serif; }
+
+
+a{
+	text-decorcation: none;
+	color: #387C44;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+
+#head-wrapper{
+	width: 100%;
+	border-bottom: 2px solid #000;
+}
+
+#head{
+	height: 75px;
+	width: 960px;
+	margin: 10px auto 0px auto;
+	text-align: left;
+}
+
+#head img{
+	float: left;
+}
+
+#head h1{
+	display: inline;
+	color: #4CC417;
+	padding: 10px;
+}
+
+
+
+
+#nav{
+	padding: 0px 15px;
+	float: right;
+}
+
+#nav ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	-webkit-padding-start: 0px;
+	-moz-padding-start: 0px;
+}
+
+#nav li{
+	padding: 0px 10px;
+	float: right;
+}
+
+#nav li a{
+	text-decoration: none;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #666;
+	-webkit-transition: all .2s ease;
+}
+
+#nav li a:hover{
+	color: #0250b4;
+}
+
+#marquee{
+	width: 100%;
+	background: #000;
+	background: -webkit-gradient(radial, 700 500, 850, 50% 95%, 40, from(#000), to(#4AA02C));
+	background: -moz-radial-gradient(700px 500px 45deg, circle cover, #254117 0%, #000 100%);
+	text-align: left;
+}
+
+#marquee-wrapper{
+	width: 960px;
+	margin: 0px auto;
+	color: #fff;
+}
+
+#marquee-text {
+	width: 575px;
+	padding: 10px 10px;
+	float: left;
+	font-size: 1.1em;
+	line-height: 140%;
+}
+
+#marquee-image{
+	width: 300px;
+	float: left;
+	padding: 10px 10px;
+}
+
+#index-link-list{
+	width: 960px;
+	margin: 0 auto;
+	text-align: left;
+	padding: 25px 0px;
+}
+
+.half-section{
+	width: 45%;
+	padding: 10px 20px;
+	float: left;
+}
+
+.half-section h3{
+	color: #666;
+	text-align: center;
+	border-bottom: 2px solid #666;
+}
+
+.half-section li{
+	list-style-type: none;
+	padding: 10px 0px;
+}
+
+
+#page-content{
+	padding: 20px 0px;
+	width: 860px;
+	margin: 0 auto;
+	text-align: left;
+	font-size: .95em;
+	line-height: 180%;
+}
+
+#footer-wrapper{
+    text-align: center;
+	width: 100%;
+	color: #fff;
+	background-color: #000;
+}
+
+#footer{
+
+	width: 960px;
+	padding: 15px 0px;
+}
+
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+    }

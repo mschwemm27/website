@@ -1,0 +1,76 @@
+<html>
+
+<head>
+<title>Mathematical Neuroscience</title>
+
+<style type='text/css'>
+h2 {
+font-size: 28px;
+font-weight: bold;
+padding-left: 0px;
+
+margin-top: 20px;
+margin-right: 10px;
+margin-bottom: 4px;
+margin-left: 50px;
+padding-top: 0px;
+padding-right: 10px;
+padding-bottom: 0px;
+line-height: 28px;
+}
+ul {
+margin-right: 300px;
+margin-left: 50px
+}
+
+h3 {
+font-size: 20px;
+font-weight: bold;
+padding-left: 0px;
+
+margin-top: 20px;
+margin-right: 10px;
+margin-bottom: 4px;
+margin-left: 50px;
+padding-top: 0px;
+padding-right: 10px;
+padding-bottom: 0px;
+line-height: 28px;
+}
+
+</style>
+</head>
+
+<BODY BGCOLOR="#E6E6FA" TEXT="#000000">
+<BODY BGCOLOR="#ffffff" TEXT="#000000">
+
+<br>
+<h2>Math 351 - Mathematical Neuroscience </h2>
+<ul>
+<li> <a href="../MAT-351desc10.pdf"> Syllabus </a>
+<br>
+<br>
+<li> Responsible for one and a half hour lectures twice a week, writing homework
+assignments, writing and grading the midterm, and supervision and grading
+of final presentations and projects in which the students performed original
+research on topics covered in the course.
+</ul>
+<br>
+
+<br>
+<h3>Sample Student Research Projects</h3>
+<ul>
+<li><a href="example_1.pdf"> Example 1 </a>
+<li><a href="example_2.pdf"> Example 2 </a>
+</ul>
+<br>
+
+
+
+
+
+
+</body>
+
+
+</html>

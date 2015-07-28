@@ -1,0 +1,130 @@
+body{
+	background: url(../img/bg-2.png) repeat;
+	text-align: center;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: .9em;
+}
+
+h1, h2, h3, h4{font-family: Helvetica, Arial, sans-serif; }
+
+
+a{
+	text-decorcation: none;
+	color: #0250b4;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#wrapper {
+	background-color: #fff;
+	text-align: left;
+	height: 450px;
+	width: 960px;
+	margin: 20px auto;
+	padding: 20px 40px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	-webkit-box-shadow: 3px 5px 5px #333;
+	-moz-box-shadow: 3px 5px 5px #333;
+	box-shadow: 3px 5px 5px #333;
+}
+
+#head{
+	height: 100px;
+}
+
+#nav{
+	width:125px;
+	padding: 20px 25px 0px 0px;
+	float: left;
+}
+
+#nav ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	-webkit-padding-start: 0px;
+	-moz-padding-start: 0px;
+}
+
+#nav li{
+	padding: 10px 0px;
+}
+
+#nav li a{
+	text-decoration: none;
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #aaa;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	transition: all .2s ease;
+}
+
+#nav li a:hover{
+	color: #0250b4;
+}
+
+#content{
+	float: left;
+	padding: 0 20px;
+	width: 445px;
+	font-size: .95em;
+	font-family: Georgia, Times, serif;
+	line-height: 130%;
+}
+
+#image{
+	float: left;
+	padding: 0 0 0 20px;
+}
+
+#image img{
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+}
+
+
+#page-content{
+	float: left;
+	padding: 0 20px;
+	width: 745px;
+	font-size: .95em;
+	font-family: Georgia, Times, serif;
+	line-height: 130%;
+}
+
+#footer{
+	clear: both;
+	background-color: #fff;
+	text-align: left;
+	height: 25px;
+	width: 960px;
+	margin: 0 auto;
+	padding: 3px 40px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	-webkit-box-shadow: 3px 5px 5px #333;
+	-moz-box-shadow: 3px 5px 5px #333;
+	box-shadow: 3px 5px 5px #333;
+}
+
+
+.name{
+	float: right;
+	color: #666;
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+    }
+
